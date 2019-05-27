@@ -7,6 +7,7 @@ I created a word guess game in Node.js, allowing the player to attempt to guess 
 ## Built With
 * Node.js
 * JavaScript
+* Inquirer
  
 ## Author
 * **John Evans** - *HTML/CSS/JS* - [John Evans](https://github.com/evanjo03)
